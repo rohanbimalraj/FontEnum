@@ -1,1 +1,3 @@
 # FontEnum
+
+This repository contains an example Swift Package created as part of the tutorial: [Swift Package Plugins: Part 2 — Build Tool Plugins](https://medium.com/@rohanbimalraj/swift-package-plugins-part-2-build-tool-plugins-2228e2ff4ae5). The purpose of this project is to demonstrate how to create and use a Build Tool Plugin to automate the generation of a Swift enum for custom font names in your project.
